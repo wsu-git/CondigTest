@@ -1,0 +1,5 @@
+/Users/woosanguk/CondigTest/ProgrammersStackQ/ProgrammersStackQ/bin/Debug/ProgrammersStackQ.exe
+/Users/woosanguk/CondigTest/ProgrammersStackQ/ProgrammersStackQ/bin/Debug/ProgrammersStackQ.pdb
+/Users/woosanguk/CondigTest/ProgrammersStackQ/ProgrammersStackQ/obj/Debug/ProgrammersStackQ.csprojAssemblyReference.cache
+/Users/woosanguk/CondigTest/ProgrammersStackQ/ProgrammersStackQ/obj/Debug/ProgrammersStackQ.exe
+/Users/woosanguk/CondigTest/ProgrammersStackQ/ProgrammersStackQ/obj/Debug/ProgrammersStackQ.pdb
