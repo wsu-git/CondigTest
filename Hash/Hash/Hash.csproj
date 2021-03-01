@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
-    <ProjectGuid>{16125D95-70B9-41D7-B38A-A78A038D08CD}</ProjectGuid>
+    <ProjectGuid>{014CB49B-1AE9-47CD-AB9D-D67E5024820C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProgrammersStackQ</RootNamespace>
-    <AssemblyName>ProgrammersStackQ</AssemblyName>
+    <RootNamespace>Hash</RootNamespace>
+    <AssemblyName>Hash</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
@@ -30,12 +30,9 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BridgeMoveTruck.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StockPrice.cs" />
-    <Compile Include="MainClass.cs" />
-    <Compile Include="FunctionDevelopment.cs" />
-    <Compile Include="Printer.cs" />
+    <Compile Include="Camouflage.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

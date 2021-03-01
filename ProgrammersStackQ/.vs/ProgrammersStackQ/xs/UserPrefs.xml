@@ -1,14 +1,35 @@
 ﻿<Properties StartupConfiguration="{16125D95-70B9-41D7-B38A-A78A038D08CD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammersStackQ/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammersStackQ/Printer.cs">
     <Files>
-      <File FileName="ProgrammersStackQ/Program.cs" Line="9" Column="47" />
+      <File FileName="ProgrammersStackQ/Program.cs" Line="18" Column="16" />
+      <File FileName="ProgrammersStackQ/StockPrice.cs" Line="48" Column="50" />
+      <File FileName="ProgrammersStackQ/MainClass.cs" Line="24" Column="10" />
+      <File FileName="ProgrammersStackQ/FunctionDevelopment.cs" Line="50" Column="35" />
+      <File FileName="ProgrammersStackQ/Printer.cs" Line="2" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgrammersStackQ" expanded="True">
+            <Node name="ProgrammersStackQ" expanded="True">
+              <Node name="Printer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ProgrammersStackQ FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ProgrammersStackQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/woosanguk/CondigTest/ProgrammersStackQ/ProgrammersStackQ/qguvhaad.z7c~" relfile="ProgrammersStackQ/qguvhaad.z7c~" line="78" column="1" />
+      <Breakpoint file="/Users/woosanguk/CondigTest/ProgrammersStackQ/ProgrammersStackQ/FunctionDevelopment.cs" relfile="ProgrammersStackQ/FunctionDevelopment.cs" line="23" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
